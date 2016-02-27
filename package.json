@@ -1,0 +1,27 @@
+{
+  "name": "educat",
+  "version": "0.0.1",
+  "description": "Apredizaje fácil y divertido",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwerfaqs/educat.git"
+  },
+  "keywords": [
+    "learning",
+    "js",
+    "node",
+    "typescrippt"
+  ],
+  "author": "Francisco Pane",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/qwerfaqs/educat/issues"
+  },
+  "homepage": "https://github.com/qwerfaqs/educat#readme"
+}
